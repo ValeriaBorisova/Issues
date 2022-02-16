@@ -1,4 +1,4 @@
-[![Tests](https://github.com/ValeriaBorisova/Radioman/actions/workflows/maven.yml/badge.svg)](https://github.com/ValeriaBorisova/Radioman/actions/workflows/maven.yml)
+[![Java CI with Maven](https://github.com/ValeriaBorisova/Issues/actions/workflows/maven.yml/badge.svg)](https://github.com/ValeriaBorisova/Issues/actions/workflows/maven.yml)
 
 * Task description 
 
